@@ -62,9 +62,10 @@ Listening Trends
 
 This project was developed collaboratively with:
 
-Diego
+[Diego Cazalla](https://github.com/diegocazalla)
 
-Natalia
+[Natalia Benitez](https://github.com/natbm89)
+
 
 
 ### ✨ Goal: Learn, apply, and share knowledge by consuming APIs and analyzing music data.
