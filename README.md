@@ -30,7 +30,6 @@ API_music/
 ├── src/ # Reusable Python functions
 ├── images/ # Screenshots and plots
 ├── requirements.txt
-├── LICENSE
 ├── README.md
 └── .gitignore
 ```
